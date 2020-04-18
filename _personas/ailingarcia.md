@@ -7,7 +7,7 @@ trello: ailingarcia
 soy-de: La Plata
 ---
 
-Gestiono proyectos, organizo, planifico. 
+Soy nexo: Gestiono proyectos, organizo, planifico. 
 
 Cuento con 15 años de trabajo en empresas de diferentes rubros. administrando y gestionando proyectos de diverso tamaño, estilo y valor.
 Considero que desde el proyecto más pequeño, recién comenzado, necesita una gestión, porque así se reducen costos, evitan demoras.
