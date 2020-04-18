@@ -3,7 +3,7 @@ blog:
 github: ailinmgarcia
 facebook: Ailn.Garcia
 linkedin: ailin_garcia
-trello: @ailingarcia
+trello: ailingarcia
 soy-de: La Plata
 ---
 
